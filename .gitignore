@@ -1,0 +1,8 @@
+# Virtual Environment
+env/
+
+# Environment Variables
+.env
+
+# SQLite database
+Student.db
